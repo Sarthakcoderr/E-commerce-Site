@@ -20,7 +20,7 @@ https://prodomania.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Sarthakcoderr/E-commerce-Site.git
 ```
 
 Go to the project directory
